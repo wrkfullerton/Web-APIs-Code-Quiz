@@ -69,6 +69,10 @@ footer
     text-align: center;
     margin:50px;
 }
+#link
+{
+color: #fff;
+}
 .button
 {
     background-color: cornflowerblue;
